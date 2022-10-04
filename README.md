@@ -27,3 +27,10 @@ aws를 통해서 설문조사 프로젝트 배포 예정이며,
 
 <h3>저를 더 알고싶다면</h3>
  블로그 : https://viya123.tistory.com/
+<hr>
+<h2>Project</h2>
+Servlet - jsp 1인개발 아울러 포인트 
+<br>
+<p align="center"><img src="https://user-images.githubusercontent.com/107236098/193736279-7a0b8151-5035-4fce-a69b-9aea9b29bb76.gif"> </p>
+<br>
+<p align="center"><img src="https://user-images.githubusercontent.com/107236098/193737224-9bbd8290-4dcb-41fd-9bdb-d28237ac699b.gif"> </p>
