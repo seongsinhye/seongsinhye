@@ -35,6 +35,10 @@ Servlet - jsp 1인개발 아울러 포인트
 <br>
 <p align="center"><img src="https://user-images.githubusercontent.com/107236098/193737224-9bbd8290-4dcb-41fd-9bdb-d28237ac699b.gif"> </p>
 
+Spring 2인 팀프로젝트 환율사이트 
+<p align="center"><img src="https://user-images.githubusercontent.com/107236098/193772362-0ca4dfc8-6466-42bb-8582-ba3f0845d9fc.gif"></p>
+<br>
+
 
 <br>
 Bootstrap BBQ 사이트 
