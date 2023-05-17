@@ -19,9 +19,11 @@
 <h3>저를 더 알고싶다면</h3>
  블로그 : https://viya123.tistory.com/
 <hr>
-<h3>2022 하반기 10월 상하수도 IT 회사 입사 현재 재직중</h3>
+<h3>2022 하반기 10월 상하수도 IT 회사 입사 현재 재직중  <br>
+In the second half of 2022, he joined a water and sewage IT company and is currently in office
+</h3>
 <h3>
- Spring, VueJS, node 등 사용하면서 성장중 ! 
+ Spring, VueJS, node 등 사용하면서 성장중 ! <br>
 Growing up using Spring, VueJS, and node!
 </h3>
 
