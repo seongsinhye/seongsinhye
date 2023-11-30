@@ -19,7 +19,15 @@
 
 <h3>저를 더 알고싶다면</h3>
  블로그 : https://viya123.tistory.com/
+
+<h3>개인 프로젝트 2022.03 ~ 2022. 09</h3>
+  환전 사이트 : https://github.com/seongsinhye/moneyexchange
+  설문조사 사이트 : https://github.com/seongsinhye/together
 <hr>
+
+
+
+
 <h3>2022 하반기 10월 상하수도 IT 회사 입사 현재 재직중  <br>
 In the second half of 2022, he joined a water and sewage IT company and is currently in office
 </h3>
